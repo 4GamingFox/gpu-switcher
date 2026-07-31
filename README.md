@@ -12,6 +12,10 @@ GPU Switcher provides a simple graphical interface for switching GPU modes using
 - 🐧 Built for Linux
 - 💻 Designed for ASUS ROG laptops using `supergfxctl`
 
+## Screenshot
+
+![GPU Switcher](images/screenshot.png)
+
 ## Requirements
 
 - Linux
@@ -43,10 +47,6 @@ cmake --build .
 This project was created for my personal use and is shared as-is.
 
 You're welcome to use, modify, and fork it under the MIT License. While I may make improvements from time to time, I don't guarantee bug fixes, feature requests, or support.
-
-## Screenshot
-
-![GPU Switcher](images/screenshot.png)
 
 ## License
 
